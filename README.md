@@ -1,9 +1,10 @@
+<div align=center>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you 👋</h1>
 
 
 <p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/940/940194.svg?token=exp=1613657683~hmac=01224885dca3167ae499dd8843a1fdbe" width="25"/> <b>Changsha, China</b></p>
 
-<div align=center>
 
 ### Skill
 
