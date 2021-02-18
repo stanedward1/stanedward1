@@ -3,8 +3,6 @@
 
 <p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/940/940194.svg?token=exp=1613657683~hmac=01224885dca3167ae499dd8843a1fdbe" width="25"/> <b>Changsha, China</b></p>
 
-![developer](https://habitica.files.wordpress.com/2015/09/whitegryphonwordpress1.png)
-
 
 ### Skill
 
