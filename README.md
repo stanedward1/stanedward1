@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=stanedward1.readme)
+
+
+![](http://antzuhl.cn:4000/get/@stanedward1.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=stanedward1&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
