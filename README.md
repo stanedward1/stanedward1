@@ -1,23 +1,6 @@
-### Hi there 👋
-
-<!--
-**stanedward1/stanedward1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://visitor-badge.glitch.me/badge?page_id=stanedward1.readme)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you 👋</h1>
 
 
-![](http://antzuhl.cn:4000/get/@stanedward1.readme)
+<p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/323/323363.svg?token=exp=1613650003~hmac=40d04eef5d9189c0180d94d4027eb3d3" width="13"/> <b>Changsha, China</b></p>
 
-![info](https://github-readme-stats.vercel.app/api?username=stanedward1&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<h3>Things I code with</h3>
