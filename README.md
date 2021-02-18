@@ -2,7 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/940/940194.svg?token=exp=1613657683~hmac=01224885dca3167ae499dd8843a1fdbe" width="25"/> <b>Changsha, China</b></p>
-<br>
+
+![developer](https://habitica.files.wordpress.com/2015/09/whitegryphonwordpress1.png)
+
 
 ### Skill
 
@@ -13,7 +15,6 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-%232081e8?style=for-the-badge&logo=docker&logoColor=fff)
 
-<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=stanedward1 )
 
