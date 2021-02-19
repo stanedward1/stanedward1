@@ -39,10 +39,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stanedward1&count_private=true&show_icons=true&include_all_commits=true)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanedward1&langs_count=8" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanedward1&hide=TeX&layout=compact)
 
 ⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.29 %
 
