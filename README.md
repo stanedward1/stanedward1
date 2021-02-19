@@ -17,15 +17,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Vue](https://img.shields.io/badge/-Vue-ebf2f2?style=flat-square&logo=V)
+![MySQL](https://img.shields.io/badge/-MySQL-ebf2f2?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-ebf2f2?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-005571?style=flat-square&logo=Rabbitmq)
+![Django](https://img.shields.io/badge/-django-f7b0cf?style=flat-square&logo=Django)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Spring](https://img.shields.io/badge/-spring-ebf2f2?style=flat-square&logo=spring)
+![MyBatis](https://img.shields.io/badge/-MyBatis-ebf2f2?style=flat-square&logo=MyBatis)
 ![Django](https://img.shields.io/badge/-django-f7b0cf?style=flat-square&logo=Django)
 ![Rails](https://img.shields.io/badge/-Rails-181717?style=flat-square&logo=ruby)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -36,8 +38,11 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stanedward1&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanedward1&hide=TeX&layout=compact)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanedward1&langs_count=8" />
+</a>
 
 ⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.29 %
 
