@@ -3,8 +3,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you 👋</h1>
 
 
-<p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/940/940194.svg?token=exp=1613657683~hmac=01224885dca3167ae499dd8843a1fdbe" width="25"/> <b>Changsha, China</b></p>
-<p>I want to be a <b>Fullstack developer</b></p>
+<p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197375.svg?token=exp=1613714759~hmac=58f9694138bca4f92c76715910b50bc4" width="25"/> <b>Changsha, China</b></p>
+<p>I want to be a <b>Fullstack developer<img src="https://www.flaticon.com/premium-icon/icons/svg/3242/3242257.svg"width="35"/></b></p>
 
 
 ### Skill
