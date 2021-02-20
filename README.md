@@ -26,6 +26,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-1572B6?style=flat-square&logo=Ubuntu)
+![Centos](https://img.shields.io/badge/-Centos-1572B6?style=flat-square&logo=Centos)
 ![Spring](https://img.shields.io/badge/-spring-ebf2f2?style=flat-square&logo=spring)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ebf2f2?style=flat-square&logo=MyBatis)
 ![Django](https://img.shields.io/badge/-django-f7b0cf?style=flat-square&logo=Django)
