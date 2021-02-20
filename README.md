@@ -25,11 +25,13 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Linux](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux)
 ![Spring](https://img.shields.io/badge/-spring-ebf2f2?style=flat-square&logo=spring)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-ebf2f2?style=flat-square&logo=MyBatis)
 ![Django](https://img.shields.io/badge/-django-f7b0cf?style=flat-square&logo=Django)
 ![Rails](https://img.shields.io/badge/-Rails-181717?style=flat-square&logo=ruby)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Shell](https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
