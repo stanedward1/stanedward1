@@ -44,7 +44,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=stanedward1&count_private=true&show_icons=true&include_all_commits=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longbiu&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanedward1&hide=TeX&layout=compact)
 
 
 </div>
