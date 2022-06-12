@@ -4,7 +4,7 @@
 
 
 <p>Welcome to my page! </br> I'm stanedward1, developer from <img src="https://image.shutterstock.com/image-vector/china-flag-vector-isolated-on-600w-1956844510.jpg" width="25"/> <b>Changsha, China</b></p>
-<p>I want to be a <b>Fullstack developer<img src="https://www.flaticon.com/premium-icon/icons/svg/3242/3242257.svg"width="35"/></b></p>
+<p>I want to be a <b>Fullstack developer</b></p>
 
 
 ### Skill
